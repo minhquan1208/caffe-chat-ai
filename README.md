@@ -52,7 +52,7 @@
 
 <h1>🛠️ CÔNG NGHỆ SỬ DỤNG</h1>
 
-<div align="center">
+<div>
 
 🐍 **Ngôn ngữ:** Python 3.x<br>
 🌐 **Framework:** Flask<br>
