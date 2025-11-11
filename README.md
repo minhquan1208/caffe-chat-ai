@@ -1,11 +1,5 @@
 <h1 align="center">☕ AI COFFEE RECOMMENDER</h1>
 
-<div align="center">
-  <p align="center">
-    <img src="static/logo.png" alt="AI Coffee Recommender Logo" width="400"/>
-  </p>
-</div>
-
 <h2 align="center">Trợ lý AI gợi ý đồ uống cà phê thông minh</h2>
 
 <p align="left">
@@ -27,10 +21,7 @@
 <h1>🏗️ CẤU TRÚC DỰ ÁN</h1>
 
 <p align="center">
-  <img src="img/folder-structure.png" alt="Project Structure" width="700"/>
-</p>
-
-📦 coffee-ai-recommender
+  📦 coffee-ai-recommender
 │
 ├── 📂 data
 │ └── menu.json # Danh sách các loại đồ uống (tên, vị, nhiệt độ,...)
@@ -45,6 +36,9 @@
 ├── .env # Chứa API key của OpenAI (không public)
 ├── app.py # File chạy chính (Flask server)
 └── requirements.txt # Danh sách thư viện Python cần cài
+</p>
+
+
 
 
 ---
