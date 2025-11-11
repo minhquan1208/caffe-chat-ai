@@ -20,7 +20,7 @@
 
 <h1>🏗️ CẤU TRÚC DỰ ÁN</h1>
 
-<div align="center">
+<div>
 
 <pre>
 
