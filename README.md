@@ -37,8 +37,8 @@
 │   └── index.html              # Giao diện chính của ứng dụng
 │
 ├── .env                        # Chứa API key của OpenAI (không public)
-├── app.py                      # File chạy chính (Flask server)
-└── requirements.txt            # Danh sách thư viện Python cần cài
+└── app.py                      # File chạy chính (Flask server)
+
 
 </pre>
 
