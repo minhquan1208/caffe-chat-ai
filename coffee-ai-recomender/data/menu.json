@@ -1,0 +1,107 @@
+[
+  {
+    "name": "Cà phê đen",
+    "type": "Cà phê",
+    "taste": "Đậm đà, mạnh, ít ngọt",
+    "temperature": "Nóng hoặc đá",
+    "price": "25.000đ"
+  },
+  {
+    "name": "Cà phê sữa đá",
+    "type": "Cà phê",
+    "taste": "Ngọt nhẹ, béo, thơm sữa",
+    "temperature": "Đá",
+    "price": "28.000đ"
+  },
+  {
+    "name": "Bạc xỉu",
+    "type": "Cà phê",
+    "taste": "Ngọt, béo, nhẹ vị cà phê",
+    "temperature": "Nóng hoặc đá",
+    "price": "30.000đ"
+  },
+  {
+    "name": "Trà đào cam sả",
+    "type": "Trà",
+    "taste": "Thanh, ngọt, mát, thoang thoảng mùi sả",
+    "temperature": "Lạnh",
+    "price": "35.000đ"
+  },
+  {
+    "name": "Trà vải hoa hồng",
+    "type": "Trà",
+    "taste": "Ngọt nhẹ, hương vải và hoa hồng thơm dịu",
+    "temperature": "Lạnh",
+    "price": "36.000đ"
+  },
+  {
+    "name": "Trà chanh sả tắc",
+    "type": "Trà",
+    "taste": "Chua ngọt, thơm sả, mát lạnh",
+    "temperature": "Lạnh",
+    "price": "32.000đ"
+  },
+  {
+    "name": "Trà sữa trân châu",
+    "type": "Trà sữa",
+    "taste": "Ngọt, béo, có trân châu dẻo dai",
+    "temperature": "Lạnh",
+    "price": "38.000đ"
+  },
+  {
+    "name": "Trà sữa matcha",
+    "type": "Trà sữa",
+    "taste": "Ngọt nhẹ, thơm matcha, béo sữa",
+    "temperature": "Lạnh",
+    "price": "40.000đ"
+  },
+  {
+    "name": "Sinh tố xoài",
+    "type": "Sinh tố",
+    "taste": "Ngọt, chua nhẹ, béo tự nhiên",
+    "temperature": "Lạnh",
+    "price": "40.000đ"
+  },
+  {
+    "name": "Sinh tố bơ",
+    "type": "Sinh tố",
+    "taste": "Béo, ngọt dịu, mịn mượt",
+    "temperature": "Lạnh",
+    "price": "42.000đ"
+  },
+  {
+    "name": "Nước ép cam",
+    "type": "Nước ép",
+    "taste": "Chua nhẹ, ngọt thanh, tươi mát",
+    "temperature": "Lạnh",
+    "price": "35.000đ"
+  },
+  {
+    "name": "Nước ép dưa hấu",
+    "type": "Nước ép",
+    "taste": "Ngọt, mát, dễ uống",
+    "temperature": "Lạnh",
+    "price": "33.000đ"
+  },
+  {
+    "name": "Soda chanh bạc hà",
+    "type": "Soda",
+    "taste": "Chua ngọt, mát lạnh, có gas nhẹ",
+    "temperature": "Lạnh",
+    "price": "38.000đ"
+  },
+  {
+    "name": "Soda việt quất",
+    "type": "Soda",
+    "taste": "Ngọt, chua nhẹ, hương việt quất dễ chịu",
+    "temperature": "Lạnh",
+    "price": "38.000đ"
+  },
+  {
+    "name": "Chocolate nóng",
+    "type": "Đồ uống nóng",
+    "taste": "Ngọt, thơm cacao, béo nhẹ",
+    "temperature": "Nóng",
+    "price": "38.000đ"
+  }
+]
