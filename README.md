@@ -18,7 +18,7 @@
 
 ---
 
-<h1 align="center">🏗️ CẤU TRÚC DỰ ÁN</h1>
+<h1>🏗️ CẤU TRÚC DỰ ÁN</h1>
 
 <div align="center">
 
