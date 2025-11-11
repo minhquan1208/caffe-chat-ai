@@ -18,22 +18,32 @@
 
 ---
 
-## 🏗️ CẤU TRÚC DỰ ÁN
+<h1 align="center">🏗️ CẤU TRÚC DỰ ÁN</h1>
 
-coffee-ai-recommender/
+<div align="center">
+
+<pre>
+
+📦 coffee-ai-recommender
 │
-├── data/
-│ └── menu.json
+├── 📂 data
+│   └── menu.json               # Danh sách các loại đồ uống (tên, vị, nhiệt độ,...)
 │
-├── static/
-│ ├── script.js 
-│ └── style.css 
+├── 📂 static
+│   ├── script.js               # Gửi yêu cầu từ người dùng đến server Flask
+│   └── style.css               # Giao diện trang web
 │
-├── templates/
-│ └── index.html 
+├── 📂 templates
+│   └── index.html              # Giao diện chính của ứng dụng
 │
-├── .env 
-└── app.py 
+├── .env                        # Chứa API key của OpenAI (không public)
+├── app.py                      # File chạy chính (Flask server)
+└── requirements.txt            # Danh sách thư viện Python cần cài
+
+</pre>
+
+</div>
+
 
 
 
