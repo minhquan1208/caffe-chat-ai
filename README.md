@@ -1,7 +1,12 @@
 <h1 align="center">☕ AI COFFEE RECOMMENDER</h1>
-<p align="center">
-<img width="236" height="214" alt="image" src="![Uploading image.png…]()" />
-</p>]
+<div align="center">
+  <p align="center">
+    <img src="https://raw.githubusercontent.com/anhminhvdvn/CanhBaoDotNhap/main/images/logoDaiNam.png" width="150"> </p> <br>
+
+
+
+
+</br> </div>
 
 <h2 align="center">Trợ lý AI gợi ý đồ uống cà phê thông minh</h2>
 
