@@ -1,4 +1,5 @@
 <h1 align="center">☕ AI COFFEE RECOMMENDER</h1>
+![Uploading image.png…]()
 
 <h2 align="center">Trợ lý AI gợi ý đồ uống cà phê thông minh</h2>
 
